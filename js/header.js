@@ -9,7 +9,7 @@ class Header extends HTMLElement {
       <div class="head-container">
         <input type="checkbox" name="" id="check">
         <div class="logo-container">
-            <a class="logo" href="/">
+            <a class="logo" href="https://webdevopsnautone.github.io/nautone/">
                 <img class="img-fluid" src="images/web-logo.png" alt="#">
             </a>
         </div>
